@@ -1,0 +1,7 @@
+dist/*
+!dist/index.html
+
+node_modules
+yarn.lock
+*.log
+package.lock
