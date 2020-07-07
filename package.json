@@ -1,0 +1,9 @@
+{
+  "name": "mandelbrot-online",
+  "version": "1.0.0",
+  "description": "A simple program, where I play around with webassembly",
+  "main": " ",
+  "repository": "https://github.com/Dko1905/mandelbrot-online.git",
+  "author": "Daniel Florescu <daniel.florescu1905@protonmail.ch>",
+  "license": "BSD 2-Clause License"
+}
